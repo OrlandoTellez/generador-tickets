@@ -18,6 +18,9 @@ body{
 
 .container{
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .fondo{
@@ -37,3 +40,5 @@ body{
     gap: 20px;
     text-align: center;
 }
+
+// Estilos de formlario
